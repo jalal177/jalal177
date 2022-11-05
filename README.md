@@ -1,7 +1,6 @@
 [![MasterHead](https://octodev.net/wp-content/uploads/2017/05/jstips-animation.gif)](https://rio)
 <h1 align="center">Hi 👋, I'm Jalaludin</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-(img align="kanan" alt="Coding" width="400" src="https://i.pinimg.com/originals/73/ca/d5/73cad5cd4048fca6a706f154e610d8b0.gif")
 
 - 🌱 I’m currently learning **vue**
 
